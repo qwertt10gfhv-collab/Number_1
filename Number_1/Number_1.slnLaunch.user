@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "TcpClient\\TcpClient.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TcpServer\\TcpServer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

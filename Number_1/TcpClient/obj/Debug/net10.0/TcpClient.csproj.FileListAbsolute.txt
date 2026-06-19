@@ -1,0 +1,14 @@
+C:\Users\Arihon\source\repos\Number_1\TcpClient\bin\Debug\net10.0\TcpClient.exe
+C:\Users\Arihon\source\repos\Number_1\TcpClient\bin\Debug\net10.0\TcpClient.deps.json
+C:\Users\Arihon\source\repos\Number_1\TcpClient\bin\Debug\net10.0\TcpClient.runtimeconfig.json
+C:\Users\Arihon\source\repos\Number_1\TcpClient\bin\Debug\net10.0\TcpClient.dll
+C:\Users\Arihon\source\repos\Number_1\TcpClient\bin\Debug\net10.0\TcpClient.pdb
+C:\Users\Arihon\source\repos\Number_1\TcpClient\obj\Debug\net10.0\TcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arihon\source\repos\Number_1\TcpClient\obj\Debug\net10.0\TcpClient.AssemblyInfoInputs.cache
+C:\Users\Arihon\source\repos\Number_1\TcpClient\obj\Debug\net10.0\TcpClient.AssemblyInfo.cs
+C:\Users\Arihon\source\repos\Number_1\TcpClient\obj\Debug\net10.0\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\Arihon\source\repos\Number_1\TcpClient\obj\Debug\net10.0\TcpClient.dll
+C:\Users\Arihon\source\repos\Number_1\TcpClient\obj\Debug\net10.0\refint\TcpClient.dll
+C:\Users\Arihon\source\repos\Number_1\TcpClient\obj\Debug\net10.0\TcpClient.pdb
+C:\Users\Arihon\source\repos\Number_1\TcpClient\obj\Debug\net10.0\TcpClient.genruntimeconfig.cache
+C:\Users\Arihon\source\repos\Number_1\TcpClient\obj\Debug\net10.0\ref\TcpClient.dll
