@@ -6,7 +6,8 @@ class Client
 {
     static void Main()
     {
-        string name = "Иванов Иван";
+        Console.Write("Введите ваше имя: ");
+        string? name = Console.ReadLine();
 
         using (TcpClient client = new TcpClient("127.0.0.1", 3361))
         using (NetworkStream stream = client.GetStream())
